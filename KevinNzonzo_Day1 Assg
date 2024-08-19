@@ -1,0 +1,52 @@
+PART 1
+
+A1
+Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It is important because it enables the creation of software applications and systems that support numerous aspects of modern life.
+
+A2
+Key milestones in the evolution of software development include the development of programming languages such as C, the establishment of software engineering as a discipline in the 1960s, and the advent of structured programming in the 1970s.
+
+A3
+Phases of the SDLC include:
+	1) Requirements - gathering and documenting user needs and system requirements
+	2) Design - creating detailed designs of software architecture and user interface
+	3) Implementation - writing code and building software
+	4) Testing - conduct tests to ensure software meets quality standards and functional requirements
+	5) Deployment - release of software to users
+	6) Maintenance - providing ongoing support, updates, and enhancements to software post deployment
+
+A4
+Agile methodology focuses on iterative and incremental approach to development while waterfall focuses on sequential development with distinct phases. Agile would be suitable for a startup developing a new and innovative product with uncertain market needs or an organization with multiple teams working on different aspects. Waterfall would be suitable for a government agency creating a new database management system with fixed requirements or a company building a custom CRM system within a fixed budget and deadline.
+
+A5
+Software Dev - responsible for writing code and implementing software solutions
+QA Engineer - ensures software quality by designing and executing test plans
+Project Manager - oversees the planning, execution, and delivery of software projects
+
+
+A6
+IDEs are important in the software development process because they provide comprehensive tools for writing, debugging, and testing code. Examples are Eclipse and Visual Studio.
+VCS are important because they provide software that tracks changes to source code and coordinates work among team members. Examples are Subversion, Beanstalk, and Git.
+
+A7
+Common challenges include:
+i) Changing requirements during the development cycle. Can be overcome by clear communication with stakeholders and developers.
+ii) Tight deadlines. Can be overcome through proper planning, effective time management, and clear communication when encountering blockers. 
+iii) Technical Debt. Can be overcome by implementing the best solutions possible and avoiding shortcuts from the start.
+
+A8
+i) Unit Testing - tests individual components or software modules. Important because it enables early detection of bugs, provides documentation of code functionality, and facilitates code refactoring.
+ii) Integration Testing - tests interactions between different subsystems and components. Important because it ensures inter-component communication and identifies integration challenges early on. 
+iii) System Testing - tests the complete software system as a whole. Important because it assures end-to-end validation and confirms all integrated systems function correctly.
+iv) Acceptance Testing - tests software for compliance with requirements and meeting of user needs. Important because it ensures user satisfaction by meeting expectations and guarantees software readiness for production and deployment.
+
+
+
+PART 2
+
+A1
+Prompt engineering refers to the crafting of statements or questions to elicit the best possible responses from AI models. It is important because it ensures the AI model provides accurate and relevant responses. It also improves efficiency and usability of AI models.
+
+A2
+Vague Prompt - "Tell me about mixed-breed dogs"
+Clear Prompt - "Tell me about the history of mixed-breed dogs and how they have developed in the last 100 years."
